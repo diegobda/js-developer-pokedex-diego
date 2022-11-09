@@ -17,3 +17,4 @@ ls
 - HTML
 - CSS
 - JavaScript# SAIU
+# js-developer-pokedex-diego
